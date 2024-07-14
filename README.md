@@ -10,6 +10,8 @@ There will be two files in this repo:
 
 Detils:
   Name: Vannela Harshavardhan Reddy
+  
   Institution: Manipal Institute of Technology
+  
   Reg No: 220911470
 
