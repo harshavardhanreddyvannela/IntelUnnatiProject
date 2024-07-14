@@ -8,7 +8,7 @@ There will be two files in this repo:
   A Jupyter Notebook which should be run in a conda environment/google colab to ensure everything runs smoothly.
   A Project Report which summarizes the work I have done
 
-Detils:
+Details:
   
   Name: Vannela Harshavardhan Reddy
   
